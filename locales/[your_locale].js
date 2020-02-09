@@ -1,0 +1,1 @@
+[your_locale].js
